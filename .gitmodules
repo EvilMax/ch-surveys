@@ -1,6 +1,6 @@
 [submodule "src/creator"]
 	path = src/creator
-	url = https://github.com/surveyjs/survey-creator
+	url = https://github.com/EvilMax/creator.git
 [submodule "src/library"]
 	path = src/library
-	url = https://github.com/surveyjs/survey-library
+	url = https://github.com/EvilMax/library.git
